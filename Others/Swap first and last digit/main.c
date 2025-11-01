@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // Now included for the abs() function
+#include <stdlib.h>
 
 int main() {
     int number;
